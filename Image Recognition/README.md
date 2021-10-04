@@ -2,7 +2,7 @@
 
 The goal of this project is to show how to create your first neural network using the tensorflow/keras library. We will be using the MNIST dataset in this exercise.
 
-References:
+## References:
 
 
 https://keras.io/getting-started/sequential-model-guide/
