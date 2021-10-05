@@ -1,4 +1,4 @@
-# Deep Learning project: Bird Species Identification
+# Deep Learning Project: Bird Species Identification
 
 
 The proposal of this project involves building a simple mobile or web application that will allow both professional and amateur bird watchers to upload photos of birds, automatically identify the species in the photos, and contribute to the monitoring of bird populations at scale. By logging the location, time, and type of species, a database will be built up of when and where different types of birds can be found and as this is done across the country, an accurate representation of the nation’s bird populations will be built. The key component of the application will be the automatic bird identification feature which will be based on a computer vision model built on deep learning. This project focuses on the development of that computer vision model.
