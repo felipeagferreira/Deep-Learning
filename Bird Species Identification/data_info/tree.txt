@@ -1,0 +1,1011 @@
+0
+├── (1) Ducks, Geese, and Swans
+│   ├── (24) Black-bellied Whistling-Duck
+│   │   └── (610) Black-bellied Whistling-Duck
+│   ├── (27) Greater White-fronted Goose
+│   │   └── (454) Greater White-fronted Goose
+│   ├── (33) Snow Goose
+│   │   ├── (313) Snow Goose (White morph)
+│   │   └── (611) Snow Goose (Blue morph)
+│   ├── (36) Ross's Goose
+│   │   └── (612) Ross's Goose
+│   ├── (42) Brant
+│   │   └── (455) Brant
+│   ├── (51) Cackling Goose
+│   │   └── (456) Cackling Goose
+│   ├── (57) Canada Goose
+│   │   └── (457) Canada Goose
+│   ├── (60) Mute Swan
+│   │   └── (458) Mute Swan
+│   ├── (67) Trumpeter Swan
+│   │   └── (459) Trumpeter Swan
+│   ├── (72) Tundra Swan
+│   │   └── (460) Tundra Swan
+│   ├── (81) Wood Duck
+│   │   ├── (314) Wood Duck (Breeding male)
+│   │   └── (613) Wood Duck (Female/Eclipse male)
+│   ├── (87) Gadwall
+│   │   ├── (315) Gadwall (Breeding male)
+│   │   └── (614) Gadwall (Female/Eclipse male)
+│   ├── (92) American Wigeon
+│   │   ├── (316) American Wigeon (Breeding male)
+│   │   └── (615) American Wigeon (Female/Eclipse male)
+│   ├── (98) American Black Duck
+│   │   └── (461) American Black Duck
+│   ├── (102) Mallard
+│   │   ├── (317) Mallard (Breeding male)
+│   │   └── (616) Mallard (Female/Eclipse male)
+│   ├── (109) Mottled Duck
+│   │   └── (462) Mottled Duck
+│   ├── (116) Blue-winged Teal
+│   │   ├── (318) Blue-winged Teal  (Male)
+│   │   └── (617) Blue-winged Teal  (Female/juvenile)
+│   ├── (122) Cinnamon Teal
+│   │   ├── (319) Cinnamon Teal (Male)
+│   │   └── (618) Cinnamon Teal (Female/juvenile)
+│   ├── (128) Northern Shoveler
+│   │   ├── (320) Northern Shoveler (Breeding male)
+│   │   └── (619) Northern Shoveler (Female/Eclipse male)
+│   ├── (130) Northern Pintail
+│   │   ├── (321) Northern Pintail (Breeding male)
+│   │   └── (620) Northern Pintail (Female/Eclipse male)
+│   ├── (147) Green-winged Teal
+│   │   ├── (322) Green-winged Teal (Male)
+│   │   └── (621) Green-winged Teal  (Female/juvenile)
+│   ├── (153) Canvasback
+│   │   ├── (323) Canvasback (Breeding male)
+│   │   └── (622) Canvasback (Female/Eclipse male)
+│   ├── (159) Redhead
+│   │   ├── (324) Redhead (Breeding male)
+│   │   └── (623) Redhead (Female/Eclipse male)
+│   ├── (161) Ring-necked Duck
+│   │   ├── (325) Ring-necked Duck (Breeding male)
+│   │   └── (624) Ring-necked Duck (Female/Eclipse male)
+│   ├── (168) Greater Scaup
+│   │   ├── (326) Greater Scaup (Breeding male)
+│   │   └── (625) Greater Scaup (Female/Eclipse male)
+│   ├── (174) Lesser Scaup
+│   │   ├── (327) Lesser Scaup (Breeding male)
+│   │   └── (626) Lesser Scaup (Female/Eclipse male)
+│   ├── (179) Common Eider
+│   │   ├── (295) Common Eider (Adult male)
+│   │   ├── (463) Common Eider (Female/juvenile)
+│   │   └── (696) Common Eider (Immature/Eclipse male)
+│   ├── (181) Harlequin Duck
+│   │   ├── (328) Harlequin Duck (Male)
+│   │   └── (627) Harlequin Duck (Female/juvenile)
+│   ├── (187) Surf Scoter
+│   │   ├── (329) Surf Scoter (Male)
+│   │   └── (628) Surf Scoter (Female/immature)
+│   ├── (192) White-winged Scoter
+│   │   ├── (330) White-winged Scoter (Male)
+│   │   └── (629) White-winged Scoter (Female/juvenile)
+│   ├── (201) Black Scoter
+│   │   ├── (331) Black Scoter (Male)
+│   │   └── (630) Black Scoter (Female/juvenile)
+│   ├── (203) Long-tailed Duck
+│   │   ├── (296) Long-tailed Duck (Winter male)
+│   │   ├── (464) Long-tailed Duck (Summer male)
+│   │   └── (697) Long-tailed Duck (Female/juvenile)
+│   ├── (209) Bufflehead
+│   │   ├── (332) Bufflehead (Breeding male)
+│   │   └── (631) Bufflehead (Female/immature male)
+│   ├── (214) Common Goldeneye
+│   │   ├── (333) Common Goldeneye (Breeding male)
+│   │   └── (632) Common Goldeneye (Female/Eclipse male)
+│   ├── (219) Barrow's Goldeneye
+│   │   ├── (334) Barrow's Goldeneye (Breeding male)
+│   │   └── (633) Barrow's Goldeneye (Female/Eclipse male)
+│   ├── (225) Hooded Merganser
+│   │   ├── (335) Hooded Merganser (Breeding male)
+│   │   └── (634) Hooded Merganser (Female/immature male)
+│   ├── (229) Common Merganser
+│   │   ├── (336) Common Merganser (Breeding male)
+│   │   └── (635) Common Merganser (Female/immature male)
+│   ├── (235) Red-breasted Merganser
+│   │   ├── (337) Red-breasted Merganser (Breeding male)
+│   │   └── (636) Red-breasted Merganser (Female/immature male)
+│   └── (238) Ruddy Duck
+│       ├── (297) Ruddy Duck (Breeding male)
+│       ├── (465) Ruddy Duck (Winter male)
+│       └── (698) Ruddy Duck (Female/juvenile)
+├── (2) Grouse, Quail, and Allies
+│   ├── (43) Scaled Quail
+│   │   └── (466) Scaled Quail
+│   ├── (73) California Quail
+│   │   ├── (338) California Quail (Male)
+│   │   └── (637) California Quail (Female/juvenile)
+│   ├── (103) Gambel's Quail
+│   │   ├── (339) Gambel's Quail (Male)
+│   │   └── (638) Gambel's Quail (Female/juvenile)
+│   ├── (131) Northern Bobwhite
+│   │   └── (467) Northern Bobwhite
+│   ├── (169) Ring-necked Pheasant
+│   │   ├── (340) Ring-necked Pheasant (Male)
+│   │   └── (639) Ring-necked Pheasant (Female/juvenile)
+│   ├── (193) Ruffed Grouse
+│   │   └── (468) Ruffed Grouse
+│   └── (220) Wild Turkey
+│       └── (469) Wild Turkey
+├── (3) Loons
+│   ├── (74) Red-throated Loon
+│   │   ├── (341) Red-throated Loon (Breeding)
+│   │   └── (640) Red-throated Loon (Nonbreeding/juvenile)
+│   ├── (132) Pacific Loon
+│   │   ├── (342) Pacific Loon (Breeding)
+│   │   └── (641) Pacific Loon (Nonbreeding/juvenile)
+│   └── (194) Common Loon
+│       ├── (343) Common Loon (Breeding)
+│       └── (642) Common Loon (Nonbreeding/juvenile)
+├── (4) Grebes
+│   ├── (49) Pied-billed Grebe
+│   │   └── (470) Pied-billed Grebe
+│   ├── (84) Horned Grebe
+│   │   ├── (344) Horned Grebe (Breeding)
+│   │   └── (643) Horned Grebe (Nonbreeding/juvenile)
+│   ├── (118) Red-necked Grebe
+│   │   ├── (345) Red-necked Grebe (Breeding)
+│   │   └── (644) Red-necked Grebe (Nonbreeding/juvenile)
+│   ├── (157) Eared Grebe
+│   │   ├── (346) Eared Grebe (Breeding)
+│   │   └── (645) Eared Grebe (Nonbreeding/juvenile)
+│   ├── (185) Western Grebe
+│   │   └── (471) Western Grebe
+│   └── (215) Clark's Grebe
+│       └── (472) Clark's Grebe
+├── (5) Storks
+│   └── (133) Wood Stork
+│       └── (473) Wood Stork
+├── (6) Frigatebirds, Boobies, Cormorants, Darters, and Allies
+│   ├── (44) Northern Gannet
+│   │   ├── (347) Northern Gannet (Adult, Subadult)
+│   │   └── (646) Northern Gannet (Immature/Juvenile)
+│   ├── (75) Brandt's Cormorant
+│   │   └── (474) Brandt's Cormorant
+│   ├── (104) Neotropic Cormorant
+│   │   └── (475) Neotropic Cormorant
+│   ├── (134) Double-crested Cormorant
+│   │   ├── (348) Double-crested Cormorant (Immature)
+│   │   └── (647) Double-crested Cormorant (Adult)
+│   ├── (170) Great Cormorant
+│   │   ├── (349) Great Cormorant (Adult)
+│   │   └── (648) Great Cormorant (Immature)
+│   ├── (195) Pelagic Cormorant
+│   │   └── (476) Pelagic Cormorant
+│   └── (221) Anhinga
+│       └── (477) Anhinga
+├── (7) Pelicans, Herons, Ibises, and Allies
+│   ├── (29) American White Pelican
+│   │   └── (478) American White Pelican
+│   ├── (41) Brown Pelican
+│   │   └── (479) Brown Pelican
+│   ├── (58) Great Blue Heron
+│   │   └── (480) Great Blue Heron
+│   ├── (71) Great Egret
+│   │   └── (481) Great Egret
+│   ├── (85) Snowy Egret
+│   │   └── (482) Snowy Egret
+│   ├── (99) Little Blue Heron
+│   │   ├── (350) Little Blue Heron (Adult)
+│   │   └── (649) Little Blue Heron (Immature)
+│   ├── (115) Tricolored Heron
+│   │   └── (483) Tricolored Heron
+│   ├── (127) Reddish Egret
+│   │   ├── (351) Reddish Egret (Dark morph)
+│   │   └── (650) Reddish Egret (White morph)
+│   ├── (148) Cattle Egret
+│   │   └── (484) Cattle Egret
+│   ├── (160) Green Heron
+│   │   └── (485) Green Heron
+│   ├── (173) Black-crowned Night-Heron
+│   │   ├── (352) Black-crowned Night-Heron (Adult)
+│   │   └── (651) Black-crowned Night-Heron (Immature)
+│   ├── (184) Yellow-crowned Night-Heron
+│   │   ├── (353) Yellow-crowned Night-Heron (Adult)
+│   │   └── (652) Yellow-crowned Night-Heron (Immature)
+│   ├── (198) White Ibis
+│   │   ├── (354) White Ibis (Adult)
+│   │   └── (653) White Ibis (Immature)
+│   ├── (208) Glossy Ibis
+│   │   └── (486) Glossy Ibis
+│   ├── (223) White-faced Ibis
+│   │   └── (487) White-faced Ibis
+│   └── (233) Roseate Spoonbill
+│       └── (488) Roseate Spoonbill
+├── (8) Hawks, Kites, Eagles, and Allies
+│   ├── (28) Black Vulture
+│   │   └── (489) Black Vulture
+│   ├── (40) Turkey Vulture
+│   │   └── (490) Turkey Vulture
+│   ├── (53) Osprey
+│   │   └── (491) Osprey
+│   ├── (66) Swallow-tailed Kite
+│   │   └── (492) Swallow-tailed Kite
+│   ├── (83) White-tailed Kite
+│   │   └── (493) White-tailed Kite
+│   ├── (93) Mississippi Kite
+│   │   └── (494) Mississippi Kite
+│   ├── (108) Bald Eagle
+│   │   ├── (355) Bald Eagle (Adult, subadult)
+│   │   └── (654) Bald Eagle (Immature, juvenile)
+│   ├── (120) Northern Harrier
+│   │   ├── (356) Northern Harrier (Adult male)
+│   │   └── (655) Northern Harrier (Female, immature)
+│   ├── (135) Sharp-shinned Hawk
+│   │   ├── (357) Sharp-shinned Hawk (Adult )
+│   │   └── (656) Sharp-shinned Hawk (Immature)
+│   ├── (155) Cooper's Hawk
+│   │   ├── (358) Cooper's Hawk (Adult)
+│   │   └── (657) Cooper's Hawk (Immature)
+│   ├── (166) Harris's Hawk
+│   │   └── (495) Harris's Hawk
+│   ├── (175) Red-shouldered Hawk
+│   │   ├── (359) Red-shouldered Hawk (Adult )
+│   │   └── (658) Red-shouldered Hawk (Immature)
+│   ├── (186) Broad-winged Hawk
+│   │   ├── (360) Broad-winged Hawk (Adult)
+│   │   └── (659) Broad-winged Hawk (Immature)
+│   ├── (202) Swainson's Hawk
+│   │   ├── (298) Swainson's Hawk (Dark morph )
+│   │   ├── (496) Swainson's Hawk (Light morph )
+│   │   └── (699) Swainson's Hawk (Immature)
+│   ├── (210) Red-tailed Hawk
+│   │   ├── (299) Red-tailed Hawk (Light morph adult)
+│   │   ├── (497) Red-tailed Hawk (Dark morph)
+│   │   └── (700) Red-tailed Hawk (Light morph immature)
+│   ├── (224) Rough-legged Hawk
+│   │   ├── (361) Rough-legged Hawk (Dark morph)
+│   │   └── (660) Rough-legged Hawk (Light morph)
+│   └── (234) Golden Eagle
+│       ├── (362) Golden Eagle (Adult)
+│       └── (661) Golden Eagle (Immature)
+├── (9) Caracaras and Falcons
+│   ├── (54) Crested Caracara
+│   │   └── (498) Crested Caracara
+│   ├── (94) American Kestrel
+│   │   ├── (363) American Kestrel (Adult male)
+│   │   └── (662) American Kestrel (Female, immature)
+│   ├── (136) Merlin
+│   │   └── (499) Merlin
+│   ├── (176) Peregrine Falcon
+│   │   ├── (364) Peregrine Falcon (Adult)
+│   │   └── (663) Peregrine Falcon (Immature)
+│   └── (211) Prairie Falcon
+│       └── (500) Prairie Falcon
+├── (10) Cranes and Rails
+│   ├── (61) Purple Gallinule
+│   │   ├── (365) Purple Gallinule (Adult)
+│   │   └── (664) Purple Gallinule (Immature)
+│   ├── (110) Common Gallinule
+│   │   ├── (366) Common Gallinule (Adult)
+│   │   └── (665) Common Gallinule (Immature)
+│   ├── (162) American Coot
+│   │   └── (501) American Coot
+│   └── (204) Sandhill Crane
+│       └── (502) Sandhill Crane
+├── (11) Plovers, Sandpipers, and Allies
+│   ├── (23) Black-bellied Plover
+│   │   ├── (367) Black-bellied Plover (Breeding)
+│   │   └── (666) Black-bellied Plover (Nonbreeding/juvenile)
+│   ├── (26) Semipalmated Plover
+│   │   └── (503) Semipalmated Plover
+│   ├── (30) Killdeer
+│   │   └── (504) Killdeer
+│   ├── (35) American Oystercatcher
+│   │   └── (505) American Oystercatcher
+│   ├── (39) Black Oystercatcher
+│   │   └── (506) Black Oystercatcher
+│   ├── (46) Black-necked Stilt
+│   │   └── (507) Black-necked Stilt
+│   ├── (50) American Avocet
+│   │   └── (508) American Avocet
+│   ├── (56) Spotted Sandpiper
+│   │   ├── (368) Spotted Sandpiper (Breeding)
+│   │   └── (667) Spotted Sandpiper (Nonbreeding/juvenile)
+│   ├── (59) Solitary Sandpiper
+│   │   └── (509) Solitary Sandpiper
+│   ├── (65) Greater Yellowlegs
+│   │   └── (510) Greater Yellowlegs
+│   ├── (70) Willet
+│   │   └── (511) Willet
+│   ├── (78) Lesser Yellowlegs
+│   │   └── (512) Lesser Yellowlegs
+│   ├── (82) Whimbrel
+│   │   └── (513) Whimbrel
+│   ├── (86) Long-billed Curlew
+│   │   └── (514) Long-billed Curlew
+│   ├── (91) Marbled Godwit
+│   │   └── (515) Marbled Godwit
+│   ├── (97) Ruddy Turnstone
+│   │   └── (516) Ruddy Turnstone
+│   ├── (100) Black Turnstone
+│   │   └── (517) Black Turnstone
+│   ├── (106) Surfbird
+│   │   └── (518) Surfbird
+│   ├── (114) Sanderling
+│   │   ├── (369) Sanderling (Breeding)
+│   │   └── (668) Sanderling (Nonbreeding/juvenile)
+│   ├── (117) Semipalmated Sandpiper
+│   │   └── (519) Semipalmated Sandpiper
+│   ├── (121) Western Sandpiper
+│   │   └── (520) Western Sandpiper
+│   ├── (126) Least Sandpiper
+│   │   └── (521) Least Sandpiper
+│   ├── (129) Dunlin
+│   │   ├── (370) Dunlin (Breeding)
+│   │   └── (669) Dunlin (Nonbreeding/juvenile)
+│   ├── (146) Short-billed Dowitcher
+│   │   └── (522) Short-billed Dowitcher
+│   ├── (149) Wilson's Snipe
+│   │   └── (523) Wilson's Snipe
+│   ├── (154) American Woodcock
+│   │   └── (524) American Woodcock
+│   └── (158) Wilson's Phalarope
+│       ├── (371) Wilson's Phalarope (Breeding)
+│       └── (670) Wilson's Phalarope (Nonbreeding, juvenile)
+├── (12) Skuas and Alcids
+│   ├── (144) Black Guillemot
+│   │   ├── (392) Black Guillemot (Breeding)
+│   │   └── (599) Black Guillemot (Nonbreeding, juvenile)
+│   └── (190) Pigeon Guillemot
+│       ├── (393) Pigeon Guillemot (Breeding)
+│       └── (600) Pigeon Guillemot (Nonbreeding, juvenile)
+├── (13) Gulls, Terns, and Allies
+│   ├── (145) Black-legged Kittiwake
+│   │   ├── (394) Black-legged Kittiwake (Adult)
+│   │   └── (601) Black-legged Kittiwake (Immature)
+│   ├── (191) Bonaparte's Gull
+│   │   └── (446) Bonaparte's Gull
+│   ├── (218) Laughing Gull
+│   │   ├── (395) Laughing Gull (Breeding)
+│   │   └── (602) Laughing Gull (Nonbreeding/Immature)
+│   ├── (232) Heermann's Gull
+│   │   ├── (396) Heermann's Gull (Adult)
+│   │   └── (603) Heermann's Gull (Immature)
+│   ├── (237) Mew Gull
+│   │   └── (447) Mew Gull
+│   ├── (239) Western Gull
+│   │   ├── (398) Western Gull (Adult)
+│   │   └── (605) Western Gull (Immature)
+│   ├── (240) Ring-billed Gull
+│   │   ├── (397) Ring-billed Gull (Adult)
+│   │   └── (604) Ring-billed Gull (Immature)
+│   ├── (241) California Gull
+│   │   ├── (399) California Gull (Adult)
+│   │   └── (606) California Gull (Immature)
+│   ├── (242) Herring Gull
+│   │   ├── (400) Herring Gull (Adult)
+│   │   └── (607) Herring Gull (Immature)
+│   ├── (243) Glaucous-winged Gull
+│   │   ├── (401) Glaucous-winged Gull (Adult)
+│   │   └── (608) Glaucous-winged Gull (Immature)
+│   ├── (244) Great Black-backed Gull
+│   │   ├── (402) Great Black-backed Gull (Adult)
+│   │   └── (609) Great Black-backed Gull (Immature)
+│   ├── (245) Caspian Tern
+│   │   └── (448) Caspian Tern
+│   ├── (246) Black Tern
+│   │   └── (449) Black Tern
+│   ├── (247) Common Tern
+│   │   └── (450) Common Tern
+│   ├── (248) Forster's Tern
+│   │   └── (451) Forster's Tern
+│   ├── (249) Royal Tern
+│   │   └── (452) Royal Tern
+│   └── (250) Black Skimmer
+│       └── (453) Black Skimmer
+├── (14) Pigeons and Doves
+│   ├── (45) Rock Pigeon
+│   │   └── (525) Rock Pigeon
+│   ├── (76) Band-tailed Pigeon
+│   │   └── (526) Band-tailed Pigeon
+│   ├── (105) Eurasian Collared-Dove
+│   │   └── (527) Eurasian Collared-Dove
+│   ├── (137) White-winged Dove
+│   │   └── (528) White-winged Dove
+│   ├── (171) Mourning Dove
+│   │   └── (529) Mourning Dove
+│   ├── (196) Inca Dove
+│   │   └── (530) Inca Dove
+│   └── (222) Common Ground-Dove
+│       └── (531) Common Ground-Dove
+├── (15) Parrots
+│   └── (138) Monk Parakeet
+│       └── (532) Monk Parakeet
+├── (16) Cuckoos
+│   ├── (77) Yellow-billed Cuckoo
+│   │   └── (533) Yellow-billed Cuckoo
+│   ├── (139) Black-billed Cuckoo
+│   │   └── (534) Black-billed Cuckoo
+│   └── (197) Greater Roadrunner
+│       └── (535) Greater Roadrunner
+├── (17) Owls
+│   ├── (37) Barn Owl
+│   │   └── (536) Barn Owl
+│   ├── (62) Western Screech-Owl
+│   │   └── (537) Western Screech-Owl
+│   ├── (88) Eastern Screech-Owl
+│   │   └── (538) Eastern Screech-Owl
+│   ├── (111) Great Horned Owl
+│   │   └── (539) Great Horned Owl
+│   ├── (140) Snowy Owl
+│   │   └── (540) Snowy Owl
+│   ├── (163) Northern Pygmy-Owl
+│   │   └── (541) Northern Pygmy-Owl
+│   ├── (182) Burrowing Owl
+│   │   └── (542) Burrowing Owl
+│   ├── (205) Barred Owl
+│   │   └── (543) Barred Owl
+│   └── (226) Northern Saw-whet Owl
+│       └── (544) Northern Saw-whet Owl
+├── (18) Nightjars
+│   └── (141) Common Nighthawk
+│       └── (545) Common Nighthawk
+├── (19) Swifts and Hummingbirds
+│   ├── (34) Chimney Swift
+│   │   └── (546) Chimney Swift
+│   ├── (52) Vaux's Swift
+│   │   └── (547) Vaux's Swift
+│   ├── (68) White-throated Swift
+│   │   └── (548) White-throated Swift
+│   ├── (90) Broad-billed Hummingbird
+│   │   ├── (372) Broad-billed Hummingbird (Adult Male)
+│   │   └── (671) Broad-billed Hummingbird (Female, immature)
+│   ├── (107) Ruby-throated Hummingbird
+│   │   ├── (373) Ruby-throated Hummingbird (Adult Male)
+│   │   └── (672) Ruby-throated Hummingbird (Female, immature)
+│   ├── (123) Black-chinned Hummingbird
+│   │   ├── (374) Black-chinned Hummingbird (Adult Male)
+│   │   └── (673) Black-chinned Hummingbird (Female, immature)
+│   ├── (152) Anna's Hummingbird
+│   │   ├── (375) Anna's Hummingbird (Adult Male)
+│   │   └── (674) Anna's Hummingbird (Female, immature)
+│   ├── (167) Costa's Hummingbird
+│   │   ├── (376) Costa's Hummingbird (Adult Male)
+│   │   └── (675) Costa's Hummingbird (Female, immature)
+│   ├── (180) Calliope Hummingbird
+│   │   ├── (377) Calliope Hummingbird (Adult Male)
+│   │   └── (676) Calliope Hummingbird (Female, immature)
+│   ├── (200) Broad-tailed Hummingbird
+│   │   ├── (378) Broad-tailed Hummingbird (Adult Male)
+│   │   └── (677) Broad-tailed Hummingbird (Female, immature)
+│   ├── (213) Rufous Hummingbird
+│   │   ├── (379) Rufous Hummingbird (Adult Male)
+│   │   └── (678) Rufous Hummingbird (Female, immature)
+│   └── (228) Allen's Hummingbird
+│       ├── (380) Allen's Hummingbird (Adult Male)
+│       └── (679) Allen's Hummingbird (Female, immature)
+├── (20) Kingfishers and Allies
+│   └── (142) Belted Kingfisher
+│       └── (549) Belted Kingfisher
+├── (21) Woodpeckers
+│   ├── (31) Red-headed Woodpecker
+│   │   ├── (381) Red-headed Woodpecker (Adult)
+│   │   └── (680) Red-headed Woodpecker (Immature)
+│   ├── (47) Acorn Woodpecker
+│   │   └── (550) Acorn Woodpecker
+│   ├── (63) Gila Woodpecker
+│   │   └── (551) Gila Woodpecker
+│   ├── (79) Golden-fronted Woodpecker
+│   │   └── (552) Golden-fronted Woodpecker
+│   ├── (95) Red-bellied Woodpecker
+│   │   └── (553) Red-bellied Woodpecker
+│   ├── (112) Yellow-bellied Sapsucker
+│   │   └── (554) Yellow-bellied Sapsucker
+│   ├── (124) Red-naped Sapsucker
+│   │   └── (555) Red-naped Sapsucker
+│   ├── (150) Red-breasted Sapsucker
+│   │   └── (556) Red-breasted Sapsucker
+│   ├── (164) Ladder-backed Woodpecker
+│   │   └── (557) Ladder-backed Woodpecker
+│   ├── (177) Nuttall's Woodpecker
+│   │   └── (558) Nuttall's Woodpecker
+│   ├── (188) Downy Woodpecker
+│   │   └── (559) Downy Woodpecker
+│   ├── (206) Hairy Woodpecker
+│   │   └── (560) Hairy Woodpecker
+│   ├── (216) Northern Flicker
+│   │   ├── (382) Northern Flicker (Yellow-shafted)
+│   │   └── (681) Northern Flicker (Red-shafted)
+│   └── (230) Pileated Woodpecker
+│       └── (561) Pileated Woodpecker
+└── (22) Perching Birds
+    ├── (25) Tyrant Flycatchers
+    │   ├── (256) Western Wood-Pewee
+    │   │   └── (923) Western Wood-Pewee
+    │   ├── (270) Eastern Wood-Pewee
+    │   │   └── (924) Eastern Wood-Pewee
+    │   ├── (281) Least Flycatcher
+    │   │   └── (925) Least Flycatcher
+    │   ├── (300) Pacific-slope Flycatcher
+    │   │   └── (926) Pacific-slope Flycatcher
+    │   ├── (312) Cordilleran Flycatcher
+    │   │   └── (927) Cordilleran Flycatcher
+    │   ├── (409) Black Phoebe
+    │   │   └── (928) Black Phoebe
+    │   ├── (420) Eastern Phoebe
+    │   │   └── (929) Eastern Phoebe
+    │   ├── (562) Say's Phoebe
+    │   │   └── (930) Say's Phoebe
+    │   ├── (575) Vermilion Flycatcher
+    │   │   ├── (797) Vermilion Flycatcher (Adult male)
+    │   │   └── (1004) Vermilion Flycatcher (Female, immature)
+    │   ├── (586) Ash-throated Flycatcher
+    │   │   └── (931) Ash-throated Flycatcher
+    │   ├── (684) Great Crested Flycatcher
+    │   │   └── (932) Great Crested Flycatcher
+    │   ├── (701) Cassin's Kingbird
+    │   │   └── (933) Cassin's Kingbird
+    │   ├── (716) Western Kingbird
+    │   │   └── (934) Western Kingbird
+    │   ├── (727) Eastern Kingbird
+    │   │   └── (935) Eastern Kingbird
+    │   └── (741) Scissor-tailed Flycatcher
+    │       └── (936) Scissor-tailed Flycatcher
+    ├── (32) Shrikes
+    │   ├── (383) Loggerhead Shrike
+    │   │   └── (937) Loggerhead Shrike
+    │   └── (682) Northern Shrike
+    │       └── (938) Northern Shrike
+    ├── (38) Vireos
+    │   ├── (263) White-eyed Vireo
+    │   │   └── (939) White-eyed Vireo
+    │   ├── (285) Bell's Vireo
+    │   │   └── (940) Bell's Vireo
+    │   ├── (307) Yellow-throated Vireo
+    │   │   └── (941) Yellow-throated Vireo
+    │   ├── (414) Plumbeous Vireo
+    │   │   └── (942) Plumbeous Vireo
+    │   ├── (563) Cassin's Vireo
+    │   │   └── (943) Cassin's Vireo
+    │   ├── (580) Blue-headed Vireo
+    │   │   └── (944) Blue-headed Vireo
+    │   ├── (689) Hutton's Vireo
+    │   │   └── (945) Hutton's Vireo
+    │   ├── (712) Warbling Vireo
+    │   │   └── (946) Warbling Vireo
+    │   └── (733) Red-eyed Vireo
+    │       └── (947) Red-eyed Vireo
+    ├── (48) Jays, Magpies, and Crows
+    │   ├── (257) Gray Jay
+    │   │   └── (948) Gray Jay
+    │   ├── (271) Steller's Jay
+    │   │   └── (949) Steller's Jay
+    │   ├── (286) Blue Jay
+    │   │   └── (950) Blue Jay
+    │   ├── (301) Florida Scrub-Jay
+    │   │   └── (951) Florida Scrub-Jay
+    │   ├── (384) Western Scrub-Jay
+    │   │   └── (952) Western Scrub-Jay
+    │   ├── (415) Mexican Jay
+    │   │   └── (953) Mexican Jay
+    │   ├── (428) Clark's Nutcracker
+    │   │   └── (954) Clark's Nutcracker
+    │   ├── (566) Black-billed Magpie
+    │   │   └── (955) Black-billed Magpie
+    │   ├── (581) Yellow-billed Magpie
+    │   │   └── (956) Yellow-billed Magpie
+    │   ├── (683) American Crow
+    │   │   └── (957) American Crow
+    │   ├── (695) Northwestern Crow
+    │   │   └── (799) Northwestern Crow
+    │   ├── (710) Fish Crow
+    │   │   └── (800) Fish Crow
+    │   ├── (725) Chihuahuan Raven
+    │   │   └── (801) Chihuahuan Raven
+    │   └── (739) Common Raven
+    │       └── (802) Common Raven
+    ├── (55) Larks
+    │   └── (432) Horned Lark
+    │       └── (803) Horned Lark
+    ├── (64) Swallows
+    │   ├── (264) Purple Martin
+    │   │   ├── (752) Purple Martin (Adult male)
+    │   │   └── (959) Purple Martin (Female/juvenile)
+    │   ├── (287) Tree Swallow
+    │   │   └── (804) Tree Swallow
+    │   ├── (385) Violet-green Swallow
+    │   │   └── (805) Violet-green Swallow
+    │   ├── (421) Northern Rough-winged Swallow
+    │   │   └── (806) Northern Rough-winged Swallow
+    │   ├── (571) Bank Swallow
+    │   │   └── (807) Bank Swallow
+    │   ├── (592) Cliff Swallow
+    │   │   └── (808) Cliff Swallow
+    │   ├── (707) Cave Swallow
+    │   │   └── (809) Cave Swallow
+    │   └── (730) Barn Swallow
+    │       └── (810) Barn Swallow
+    ├── (69) Chickadees and Titmice
+    │   ├── (261) Carolina Chickadee
+    │   │   └── (811) Carolina Chickadee
+    │   ├── (278) Black-capped Chickadee
+    │   │   └── (812) Black-capped Chickadee
+    │   ├── (303) Mountain Chickadee
+    │   │   └── (813) Mountain Chickadee
+    │   ├── (406) Chestnut-backed Chickadee
+    │   │   └── (814) Chestnut-backed Chickadee
+    │   ├── (424) Boreal Chickadee
+    │   │   └── (815) Boreal Chickadee
+    │   ├── (569) Bridled Titmouse
+    │   │   └── (816) Bridled Titmouse
+    │   ├── (587) Oak Titmouse
+    │   │   └── (817) Oak Titmouse
+    │   ├── (692) Juniper Titmouse
+    │   │   └── (818) Juniper Titmouse
+    │   ├── (717) Tufted Titmouse
+    │   │   └── (819) Tufted Titmouse
+    │   └── (734) Black-crested Titmouse
+    │       └── (820) Black-crested Titmouse
+    ├── (80) Verdin
+    │   └── (433) Verdin
+    │       └── (821) Verdin
+    ├── (89) Bushtits
+    │   └── (434) Bushtit
+    │       └── (822) Bushtit
+    ├── (96) Nuthatches
+    │   ├── (284) Red-breasted Nuthatch
+    │   │   └── (823) Red-breasted Nuthatch
+    │   ├── (413) White-breasted Nuthatch
+    │   │   └── (824) White-breasted Nuthatch
+    │   ├── (579) Pygmy Nuthatch
+    │   │   └── (825) Pygmy Nuthatch
+    │   └── (711) Brown-headed Nuthatch
+    │       └── (826) Brown-headed Nuthatch
+    ├── (101) Creepers
+    │   └── (435) Brown Creeper
+    │       └── (827) Brown Creeper
+    ├── (113) Wrens
+    │   ├── (265) Cactus Wren
+    │   │   └── (828) Cactus Wren
+    │   ├── (288) Canyon Wren
+    │   │   └── (829) Canyon Wren
+    │   ├── (386) Carolina Wren
+    │   │   └── (830) Carolina Wren
+    │   ├── (422) Bewick's Wren
+    │   │   └── (831) Bewick's Wren
+    │   ├── (572) House Wren
+    │   │   └── (832) House Wren
+    │   ├── (593) Pacific Wren
+    │   │   └── (833) Pacific Wren
+    │   ├── (708) Winter Wren
+    │   │   └── (834) Winter Wren
+    │   └── (731) Marsh Wren
+    │       └── (835) Marsh Wren
+    ├── (119) Gnatcatchers
+    │   ├── (387) Blue-gray Gnatcatcher
+    │   │   └── (836) Blue-gray Gnatcatcher
+    │   └── (594) Black-tailed Gnatcatcher
+    │       └── (837) Black-tailed Gnatcatcher
+    ├── (125) Dippers
+    │   └── (436) American Dipper
+    │       └── (838) American Dipper
+    ├── (143) Kinglets
+    │   ├── (388) Golden-crowned Kinglet
+    │   │   └── (839) Golden-crowned Kinglet
+    │   └── (595) Ruby-crowned Kinglet
+    │       └── (840) Ruby-crowned Kinglet
+    ├── (151) Old World Warblers
+    │   └── (437) Wrentit
+    │       └── (841) Wrentit
+    ├── (156) Thrushes
+    │   ├── (262) Eastern Bluebird
+    │   │   └── (842) Eastern Bluebird
+    │   ├── (279) Western Bluebird
+    │   │   └── (843) Western Bluebird
+    │   ├── (304) Mountain Bluebird
+    │   │   └── (844) Mountain Bluebird
+    │   ├── (407) Townsend's Solitaire
+    │   │   └── (845) Townsend's Solitaire
+    │   ├── (425) Veery
+    │   │   └── (846) Veery
+    │   ├── (570) Swainson's Thrush
+    │   │   └── (847) Swainson's Thrush
+    │   ├── (588) Hermit Thrush
+    │   │   └── (848) Hermit Thrush
+    │   ├── (693) Wood Thrush
+    │   │   └── (849) Wood Thrush
+    │   ├── (718) American Robin
+    │   │   ├── (753) American Robin (Adult)
+    │   │   └── (960) American Robin (Juvenile)
+    │   └── (735) Varied Thrush
+    │       └── (850) Varied Thrush
+    ├── (165) Mockingbirds, Thrashers, and Allies
+    │   ├── (275) Gray Catbird
+    │   │   └── (851) Gray Catbird
+    │   ├── (389) Northern Mockingbird
+    │   │   └── (852) Northern Mockingbird
+    │   ├── (438) Brown Thrasher
+    │   │   └── (853) Brown Thrasher
+    │   ├── (596) Curve-billed Thrasher
+    │   │   └── (854) Curve-billed Thrasher
+    │   └── (720) California Thrasher
+    │       └── (855) California Thrasher
+    ├── (172) Starlings and Allies
+    │   └── (439) European Starling
+    │       ├── (748) European Starling (Breeding Adult)
+    │       ├── (856) European Starling (Nonbreeding Adult)
+    │       └── (1005) European Starling (Juvenile)
+    ├── (178) Wagtails and Pipits
+    │   └── (440) American Pipit
+    │       └── (857) American Pipit
+    ├── (183) Waxwings
+    │   ├── (390) Bohemian Waxwing
+    │   │   └── (858) Bohemian Waxwing
+    │   └── (597) Cedar Waxwing
+    │       └── (859) Cedar Waxwing
+    ├── (189) Silky-Flycatchers
+    │   └── (441) Phainopepla
+    │       ├── (754) Phainopepla (Female/juvenile)
+    │       └── (961) Phainopepla (Male)
+    ├── (199) Longspurs and Snow Buntings
+    │   └── (442) Snow Bunting
+    │       ├── (755) Snow Bunting (Breeding adult)
+    │       └── (962) Snow Bunting (Nonbreeding)
+    ├── (207) Wood-Warblers
+    │   ├── (251) Ovenbird
+    │   │   └── (860) Ovenbird
+    │   ├── (253) Louisiana Waterthrush
+    │   │   └── (861) Louisiana Waterthrush
+    │   ├── (260) Northern Waterthrush
+    │   │   └── (862) Northern Waterthrush
+    │   ├── (266) Blue-winged Warbler
+    │   │   └── (863) Blue-winged Warbler
+    │   ├── (272) Black-and-white Warbler
+    │   │   └── (864) Black-and-white Warbler
+    │   ├── (276) Prothonotary Warbler
+    │   │   └── (865) Prothonotary Warbler
+    │   ├── (283) Tennessee Warbler
+    │   │   └── (866) Tennessee Warbler
+    │   ├── (289) Orange-crowned Warbler
+    │   │   └── (867) Orange-crowned Warbler
+    │   ├── (293) Nashville Warbler
+    │   │   └── (868) Nashville Warbler
+    │   ├── (305) MacGillivray's Warbler
+    │   │   └── (869) MacGillivray's Warbler
+    │   ├── (308) Mourning Warbler
+    │   │   └── (870) Mourning Warbler
+    │   ├── (391) Common Yellowthroat
+    │   │   ├── (756) Common Yellowthroat (Adult Male)
+    │   │   └── (963) Common Yellowthroat (Female/immature male)
+    │   ├── (405) Hooded Warbler
+    │   │   └── (871) Hooded Warbler
+    │   ├── (412) American Redstart
+    │   │   ├── (757) American Redstart (Adult Male)
+    │   │   └── (964) American Redstart (Female/juvenile)
+    │   ├── (417) Cape May Warbler
+    │   │   └── (872) Cape May Warbler
+    │   ├── (423) Northern Parula
+    │   │   └── (873) Northern Parula
+    │   ├── (430) Magnolia Warbler
+    │   │   ├── (758) Magnolia Warbler (Breeding male)
+    │   │   └── (965) Magnolia Warbler (Female/immature male)
+    │   ├── (443) Bay-breasted Warbler
+    │   │   ├── (759) Bay-breasted Warbler (Breeding male)
+    │   │   └── (966) Bay-breasted Warbler (Female, Nonbreeding male, Immature)
+    │   ├── (564) Blackburnian Warbler
+    │   │   └── (874) Blackburnian Warbler
+    │   ├── (573) Yellow Warbler
+    │   │   └── (875) Yellow Warbler
+    │   ├── (577) Chestnut-sided Warbler
+    │   │   ├── (760) Chestnut-sided Warbler (Breeding male)
+    │   │   └── (967) Chestnut-sided Warbler (Female/immature male)
+    │   ├── (582) Blackpoll Warbler
+    │   │   ├── (761) Blackpoll Warbler (Breeding male)
+    │   │   └── (968) Blackpoll Warbler (Female/juvenile)
+    │   ├── (589) Black-throated Blue Warbler
+    │   │   ├── (762) Black-throated Blue Warbler (Adult Male)
+    │   │   └── (969) Black-throated Blue Warbler (Female/Immature male)
+    │   ├── (598) Palm Warbler
+    │   │   └── (876) Palm Warbler
+    │   ├── (688) Pine Warbler
+    │   │   └── (877) Pine Warbler
+    │   ├── (691) Yellow-rumped Warbler
+    │   │   ├── (747) Yellow-rumped Warbler (Breeding Myrtle)
+    │   │   ├── (798) Yellow-rumped Warbler (Winter/juvenile Myrtle)
+    │   │   ├── (958) Yellow-rumped Warbler (Breeding Audubon's)
+    │   │   └── (1009) Yellow-rumped Warbler (Winter/juvenile Audubon's)
+    │   ├── (702) Yellow-throated Warbler
+    │   │   └── (878) Yellow-throated Warbler
+    │   ├── (709) Prairie Warbler
+    │   │   └── (879) Prairie Warbler
+    │   ├── (713) Black-throated Gray Warbler
+    │   │   └── (880) Black-throated Gray Warbler
+    │   ├── (721) Townsend's Warbler
+    │   │   └── (881) Townsend's Warbler
+    │   ├── (724) Hermit Warbler
+    │   │   └── (882) Hermit Warbler
+    │   ├── (732) Black-throated Green Warbler
+    │   │   └── (883) Black-throated Green Warbler
+    │   ├── (736) Canada Warbler
+    │   │   └── (884) Canada Warbler
+    │   ├── (743) Wilson's Warbler
+    │   │   └── (885) Wilson's Warbler
+    │   └── (745) Yellow-breasted Chat
+    │       └── (886) Yellow-breasted Chat
+    ├── (212) New World Sparrows and Allies
+    │   ├── (252) Green-tailed Towhee
+    │   │   └── (887) Green-tailed Towhee
+    │   ├── (258) Spotted Towhee
+    │   │   └── (888) Spotted Towhee
+    │   ├── (267) Eastern Towhee
+    │   │   └── (889) Eastern Towhee
+    │   ├── (273) Rufous-crowned Sparrow
+    │   │   └── (890) Rufous-crowned Sparrow
+    │   ├── (282) Canyon Towhee
+    │   │   └── (891) Canyon Towhee
+    │   ├── (290) California Towhee
+    │   │   └── (892) California Towhee
+    │   ├── (302) Abert's Towhee
+    │   │   └── (893) Abert's Towhee
+    │   ├── (309) American Tree Sparrow
+    │   │   └── (894) American Tree Sparrow
+    │   ├── (403) Chipping Sparrow
+    │   │   ├── (769) Chipping Sparrow (Breeding)
+    │   │   └── (976) Chipping Sparrow (Immature/nonbreeding adult)
+    │   ├── (410) Clay-colored Sparrow
+    │   │   └── (895) Clay-colored Sparrow
+    │   ├── (418) Brewer's Sparrow
+    │   │   └── (896) Brewer's Sparrow
+    │   ├── (426) Field Sparrow
+    │   │   └── (897) Field Sparrow
+    │   ├── (431) Vesper Sparrow
+    │   │   └── (898) Vesper Sparrow
+    │   ├── (567) Lark Sparrow
+    │   │   └── (899) Lark Sparrow
+    │   ├── (576) Lark Bunting
+    │   │   ├── (763) Lark Bunting (Breeding male)
+    │   │   └── (970) Lark Bunting (Female/Nonbreeding male)
+    │   ├── (583) Savannah Sparrow
+    │   │   └── (900) Savannah Sparrow
+    │   ├── (591) Fox Sparrow
+    │   │   ├── (749) Fox Sparrow (Red)
+    │   │   ├── (901) Fox Sparrow (Sooty)
+    │   │   └── (1006) Fox Sparrow (Thick-billed/Slate-colored)
+    │   ├── (686) Song Sparrow
+    │   │   └── (902) Song Sparrow
+    │   ├── (694) Lincoln's Sparrow
+    │   │   └── (903) Lincoln's Sparrow
+    │   ├── (705) Swamp Sparrow
+    │   │   └── (904) Swamp Sparrow
+    │   ├── (714) White-throated Sparrow
+    │   │   ├── (764) White-throated Sparrow (White-striped)
+    │   │   └── (971) White-throated Sparrow (Tan-striped/immature)
+    │   ├── (722) Harris's Sparrow
+    │   │   ├── (765) Harris's Sparrow (Adult)
+    │   │   └── (972) Harris's Sparrow (Immature)
+    │   ├── (729) White-crowned Sparrow
+    │   │   ├── (766) White-crowned Sparrow (Adult)
+    │   │   └── (973) White-crowned Sparrow (Immature)
+    │   ├── (737) Golden-crowned Sparrow
+    │   │   ├── (767) Golden-crowned Sparrow (Adult)
+    │   │   └── (974) Golden-crowned Sparrow (Immature)
+    │   └── (744) Dark-eyed Junco
+    │       ├── (746) Dark-eyed Junco (Slate-colored)
+    │       ├── (768) Dark-eyed Junco (Oregon)
+    │       ├── (905) Dark-eyed Junco (Pink-sided)
+    │       ├── (975) Dark-eyed Junco (White-winged)
+    │       └── (1010) Dark-eyed Junco (Red-backed/Gray-headed)
+    ├── (217) Cardinals, Grosbeaks, and Allies
+    │   ├── (259) Summer Tanager
+    │   │   ├── (750) Summer Tanager (Adult Male)
+    │   │   ├── (906) Summer Tanager (Female)
+    │   │   └── (1007) Summer Tanager (Immature Male)
+    │   ├── (274) Scarlet Tanager
+    │   │   ├── (770) Scarlet Tanager (Breeding Male)
+    │   │   └── (977) Scarlet Tanager (Female/Nonbreeding Male)
+    │   ├── (291) Western Tanager
+    │   │   ├── (771) Western Tanager (Breeding Male)
+    │   │   └── (978) Western Tanager (Female/Nonbreeding Male)
+    │   ├── (310) Northern Cardinal
+    │   │   ├── (772) Northern Cardinal (Adult Male)
+    │   │   └── (979) Northern Cardinal (Female/Juvenile)
+    │   ├── (411) Pyrrhuloxia
+    │   │   └── (907) Pyrrhuloxia
+    │   ├── (427) Rose-breasted Grosbeak
+    │   │   ├── (773) Rose-breasted Grosbeak (Adult Male)
+    │   │   └── (980) Rose-breasted Grosbeak (Female/immature male)
+    │   ├── (568) Black-headed Grosbeak
+    │   │   ├── (774) Black-headed Grosbeak (Adult Male)
+    │   │   └── (981) Black-headed Grosbeak (Female/immature male)
+    │   ├── (584) Blue Grosbeak
+    │   │   ├── (775) Blue Grosbeak (Adult Male)
+    │   │   └── (982) Blue Grosbeak (Female/juvenile)
+    │   ├── (687) Lazuli Bunting
+    │   │   ├── (776) Lazuli Bunting (Adult Male)
+    │   │   └── (983) Lazuli Bunting (Female/juvenile)
+    │   ├── (706) Indigo Bunting
+    │   │   ├── (777) Indigo Bunting (Adult Male)
+    │   │   └── (984) Indigo Bunting (Female/juvenile)
+    │   ├── (723) Painted Bunting
+    │   │   ├── (778) Painted Bunting (Adult Male)
+    │   │   └── (985) Painted Bunting (Female/juvenile)
+    │   └── (738) Dickcissel
+    │       └── (908) Dickcissel
+    ├── (227) Blackbirds and Allies
+    │   ├── (254) Bobolink
+    │   │   ├── (779) Bobolink (Breeding male)
+    │   │   └── (986) Bobolink (Female/juvenile/nonbreeding male)
+    │   ├── (268) Red-winged Blackbird
+    │   │   ├── (780) Red-winged Blackbird (Male)
+    │   │   └── (987) Red-winged Blackbird (Female/juvenile)
+    │   ├── (277) Eastern Meadowlark
+    │   │   └── (909) Eastern Meadowlark
+    │   ├── (292) Western Meadowlark
+    │   │   └── (910) Western Meadowlark
+    │   ├── (306) Yellow-headed Blackbird
+    │   │   ├── (781) Yellow-headed Blackbird (Adult Male)
+    │   │   └── (988) Yellow-headed Blackbird (Female/Immature Male)
+    │   ├── (404) Rusty Blackbird
+    │   │   └── (911) Rusty Blackbird
+    │   ├── (416) Brewer's Blackbird
+    │   │   ├── (782) Brewer's Blackbird (Female/Juvenile)
+    │   │   └── (989) Brewer's Blackbird (Male)
+    │   ├── (429) Common Grackle
+    │   │   └── (912) Common Grackle
+    │   ├── (565) Boat-tailed Grackle
+    │   │   └── (913) Boat-tailed Grackle
+    │   ├── (578) Great-tailed Grackle
+    │   │   └── (914) Great-tailed Grackle
+    │   ├── (590) Bronzed Cowbird
+    │   │   └── (915) Bronzed Cowbird
+    │   ├── (690) Brown-headed Cowbird
+    │   │   ├── (783) Brown-headed Cowbird (Male)
+    │   │   └── (990) Brown-headed Cowbird (Female/Juvenile)
+    │   ├── (704) Orchard Oriole
+    │   │   ├── (751) Orchard Oriole (Adult Male)
+    │   │   ├── (916) Orchard Oriole (Immature Male)
+    │   │   └── (1008) Orchard Oriole (Female/Juvenile)
+    │   ├── (719) Hooded Oriole
+    │   │   ├── (784) Hooded Oriole (Adult male)
+    │   │   └── (991) Hooded Oriole (Female/Immature male)
+    │   ├── (728) Bullock's Oriole
+    │   │   ├── (785) Bullock's Oriole (Adult male)
+    │   │   └── (992) Bullock's Oriole (Female/Immature male)
+    │   └── (742) Baltimore Oriole
+    │       ├── (786) Baltimore Oriole (Adult male)
+    │       └── (993) Baltimore Oriole (Female/Immature male)
+    ├── (231) Finches and Allies
+    │   ├── (255) Gray-crowned Rosy-Finch
+    │   │   └── (917) Gray-crowned Rosy-Finch
+    │   ├── (269) Black Rosy-Finch
+    │   │   └── (918) Black Rosy-Finch
+    │   ├── (280) Brown-capped Rosy-Finch
+    │   │   └── (919) Brown-capped Rosy-Finch
+    │   ├── (294) Pine Grosbeak
+    │   │   ├── (787) Pine Grosbeak (Adult Male)
+    │   │   └── (994) Pine Grosbeak (Female/juvenile)
+    │   ├── (311) Purple Finch
+    │   │   ├── (788) Purple Finch (Adult Male)
+    │   │   └── (995) Purple Finch (Female/immature)
+    │   ├── (408) Cassin's Finch
+    │   │   ├── (789) Cassin's Finch (Adult Male)
+    │   │   └── (996) Cassin's Finch (Female/immature)
+    │   ├── (419) House Finch
+    │   │   ├── (790) House Finch (Adult Male)
+    │   │   └── (997) House Finch (Female/immature)
+    │   ├── (444) Red Crossbill
+    │   │   ├── (791) Red Crossbill (Adult Male)
+    │   │   └── (998) Red Crossbill (Female/juvenile)
+    │   ├── (574) White-winged Crossbill
+    │   │   ├── (792) White-winged Crossbill (Adult Male)
+    │   │   └── (999) White-winged Crossbill (Female/juvenile)
+    │   ├── (585) Common Redpoll
+    │   │   └── (920) Common Redpoll
+    │   ├── (685) Hoary Redpoll
+    │   │   └── (921) Hoary Redpoll
+    │   ├── (703) Pine Siskin
+    │   │   └── (922) Pine Siskin
+    │   ├── (715) Lesser Goldfinch
+    │   │   ├── (793) Lesser Goldfinch (Adult Male)
+    │   │   └── (1000) Lesser Goldfinch (Female/juvenile)
+    │   ├── (726) American Goldfinch
+    │   │   ├── (794) American Goldfinch (Breeding Male)
+    │   │   └── (1001) American Goldfinch (Female/Nonbreeding Male)
+    │   └── (740) Evening Grosbeak
+    │       ├── (795) Evening Grosbeak (Adult Male)
+    │       └── (1002) Evening Grosbeak (Female/Juvenile)
+    └── (236) Old World Sparrows
+        └── (445) House Sparrow
+            ├── (796) House Sparrow (Male)
+            └── (1003) House Sparrow (Female/Juvenile)
