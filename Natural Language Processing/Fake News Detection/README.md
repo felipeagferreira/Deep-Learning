@@ -15,3 +15,7 @@ The prime minister needs 3 results from your model:
 Needs to flag false posts ("pants-fire" or "false") with a recall of at least 70% (these will be sent to proffessional fact checkers)
 Needs to flag "true" posts with a precision of at least 95% (these will be used in real-time to verify facts during presentations)
 Needs to flag "pants-fire" posts with a precision of at least 95% (these will be used in real-time to contradict statements during presentations) (See dataset information for more clarification around labels)
+
+
+# Dataset Information:
+"We consider six fine-grained labels for the truthfulness ratings: pants-fire, false, barelytrue, half-true, mostly-true, and true. The distribution of labels in the LIAR dataset is relatively well-balanced: except for 1,050 pants-fire cases, the instances for all other labels range from 2,063 to 2,638." - https://arxiv.org/pdf/1705.00648.pdf
